@@ -9,8 +9,9 @@ Any colons (:) on a path denotes a variable. You should replace these values wit
 The final part of an endpoint is query parameters. 
 When you try to get a list of a user’s repositories on Github, you add three possible parameters to your request to modify the results given to you:
 
- 
- 
+![git](https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_2000/https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c119c0b2-4ded-42d0-90f0-496b14bf5e1f/understanding-api-doc-github-repo-opt.png)
+
+
 #### The method
 #### The headers
 #### The data (or body)
